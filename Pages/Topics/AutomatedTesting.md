@@ -1,4 +1,4 @@
-[Home](../../TestingStrategy.md) » [Automated Testing](./AutomatedTesting.md)
+[Home](../../ReadMe.md) » [Automated Testing](./AutomatedTesting.md)
 
 # Automated Testing
 
