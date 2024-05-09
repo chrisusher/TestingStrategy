@@ -1,11 +1,3 @@
----
-author: @chrisusher
-paginate: true
-title: Agile Testing Strategy
-header: Agile Testing Strategy
-footer: May 2024
----
-
 # Agile Testing Strategy
 
 **Chris Usher**
